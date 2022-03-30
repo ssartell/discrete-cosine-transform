@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "dependencies": {
+    "get-pixels": "^3.3.3",
     "mathjs": "^10.4.2"
   },
   "devDependencies": {},
